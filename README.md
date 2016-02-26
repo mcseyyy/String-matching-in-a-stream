@@ -41,4 +41,5 @@ The template types for all the classes are:
 Notes
 ---
 - The pattern is not preprocessed as a stream so you need to store it at the beginning for the preprocessing; you can delete it once the Stream_Match object was created.
-- I only tested this 
+- I only checked if it compiles in Visual Studio 2013 (but it should work with any c++ compiler).
+- As I mentioned in the description, this is part of a larger project, thus no commit history. I might make that public once it's finished.
