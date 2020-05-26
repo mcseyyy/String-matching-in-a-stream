@@ -21,12 +21,12 @@ Files
 
 How To use it
 ---
-###Setup
+### Setup
 1) Standard compilation with your favourite compiler (I used MSVC++).
 
 2) Include "Stream_Match.h".
 
-###In code
+### In code
 1) Create a Stream_Match_Params based on the pattern. It generates a prime number and preprocess some information.
 
 2) Create you Stream_Match object by feeding it the pattern and the params object.
